@@ -1,0 +1,84 @@
+.text {
+  display: flex;
+}
+.text2 {
+  display: flex;
+  gap: 5px;
+}
+section {
+  display: flex;
+}
+.text-box {
+  float: left;
+  height: auto;
+  width: 90%;
+  padding: 20px;
+  background-color: rgb(20, 19, 19);
+  color: white;
+  font-size: 200;
+  margin: 20px;
+  border-radius: 20px;
+  position: relative;
+}
+.text-box img {
+  width: 90%;
+  max-height: 200px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.text-box1 {
+  float: right;
+  width: 90%;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(20, 19, 19);
+  color: white;
+  font-size: 220;
+  margin: 20px;
+  border-radius: 20px;
+}
+.text-box1 img {
+  width: 90%;
+  max-height: 200px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.text-box2 {
+  float: left;
+  height: auto;
+  width: 130%;
+  padding: 20px;
+  background-color: rgb(20, 19, 19);
+  color: white;
+  font-size: 220;
+  margin: 20px;
+  border-radius: 20px;
+  position: relative;
+}
+.text-box2 img {
+  width: 90%;
+  max-height: 200px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.text-box3 {
+  float: right;
+  width: 90%;
+  height: auto;
+  padding: 20px;
+  background-color: rgb(20, 19, 19);
+  color: white;
+  font-size: 200;
+  margin: 20px;
+  border-radius: 20px;
+}
+.text-box3 img {
+  width: 90%;
+  max-height: 200px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+footer {
+  position: 700px;
+}

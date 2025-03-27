@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper-box {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background: black;
+}
+
+.box1,
+.box2,
+.box3 {
+  width: 30%;
+  background: #737373;
+  padding: 25px;
+  border-radius: 30px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  padding: 60px;
+}

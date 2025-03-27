@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.up{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.logo img{
+   width : 20%;
+    border: 1px solid black;
+}
+.links ul{
+    list-style: none;
+}
+.links ul li{
+    display: flex;
+    gap: 1rem;
+    margin-right: 2rem;
+
+}
+.links ul li a{
+    text-decoration: none;
+
+}
+.example button{
+    border: 1px solid black;
+    margin: 2rem;
+}
